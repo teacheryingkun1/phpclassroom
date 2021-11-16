@@ -1,12 +1,15 @@
 <html>
   <head></head>
   <body>
-    <select>
+    <table border="1">
       <?php
-      for($i=1990;$i<2022;$i++){
-        echo "<option value='".$i."'>".$i."</option>";
-      }
+        $row = 5;
+        for($i=0;$i<$row;$i++){
+          echo "<tr>";
+          echo "<td>คอลัมน์ที่ 1<td>";
+          echo "<tr>";
+        }
       ?>
-    </select> 
+    </table>
   </body>
 </html>
