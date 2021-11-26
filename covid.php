@@ -1,5 +1,5 @@
 <?php
-  $json = file_get_contents("https://covid19.ddc.moph.go.th/api/Cases/today-cases-all";);
+  $json = file_get_contents('https://covid19.ddc.moph.go.th/api/Cases/today-cases-all';);
   $data = json_decode($json);
 
 
@@ -7,7 +7,9 @@
 
 
   foreach ( $data[0] as $key => $val ){
-    echo '<td>'.$key."</td><td>".$val."<td>";
+    echo "<tr>";
+    echo "<td>".$key."</td><td>".$val."</td>";
+    echo "</tr>";
   }
 
 
