@@ -18,7 +18,7 @@
    // echo "</option>";
     
     echo "<pre>";
-    var_dump($val);
+    echo $val->province;
     echo "</pre>";
   }
  // echo "</select>"
