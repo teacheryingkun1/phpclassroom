@@ -7,7 +7,7 @@
   echo "<select name='province'>";
     
   foreach ( $data as $key => $val ){
-    echo "<option>";
+    echo "<option value='".$key."'>";
     echo $val->province;
     echo "</option>";
   }
