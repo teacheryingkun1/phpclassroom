@@ -9,14 +9,18 @@
   */
 
   
-  echo "กรุณาเลือกจังหวัด : ";
-  echo "<select name='province'>"
+ // echo "กรุณาเลือกจังหวัด : ";
+  //echo "<select name='province'>"
     
   foreach ( $data as $key => $val ){
-    echo "<option>";
-    echo $key;
-    echo "</option>";
+   // echo "<option>";
+    //echo $key;
+   // echo "</option>";
+    
+    echo "<pre>";
+    var_dump($val);
+    echo "</pre>";
   }
-  echo "</select>"
+ // echo "</select>"
   
 ?>
