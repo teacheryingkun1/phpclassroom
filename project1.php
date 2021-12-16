@@ -5,8 +5,10 @@
 <h2>HTML Forms</h2>
 
 <form action="/output.php">
-  <label for="quantity">Quantity (between 1 and 5):</label>
-  <input type="number" id="quantity" name="q" min="1" max="5">
+  Number 1 : <input type="number" id="quantity" name="num1" min="1" max="5">
+  <br>
+  Number 2 : <input type="number" id="quantity" name="num2" min="1" max="5>
+  <br>  
   <input type="submit">
 </form>
 
