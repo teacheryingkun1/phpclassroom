@@ -14,9 +14,14 @@
   echo "</tr>";
     
   foreach($data as $key=>$val){
-    echo "ข้อมูลตำแหน่งที่ ".$key." : ";
-    echo $val->new_case;
-    echo "<br>";
+    echo "<tr>";
+    echo "<td>"; 
+    echo $key;
+    echo "</td>"; 
+    echo "<td>"; 
+    echo $val->province;
+    echo "</td>"; 
+    echo "</tr>";
   }
 
   echo "</table>";
