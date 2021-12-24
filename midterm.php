@@ -5,7 +5,7 @@
   
   foreach($data as $key=>$val){
     echo "ข้อมูลตำแหน่งที่ ".$key." : ";
-    echo $val->province;
+    echo $val->new_case;
     echo "<br>";
   }
 
