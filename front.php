@@ -58,6 +58,9 @@
         <div id="col3"  class="col-2">
           Column
         </div>
+        <div id="col3"  class="col-2">
+          Column
+        </div>
       </div>
       
       
