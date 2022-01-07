@@ -29,13 +29,13 @@
     
     <div class="container">
       <div class="row">
-        <div class="col" id="box1">
+        <div class="col-2" id="box1">
           Column
         </div>
-        <div class="col" id="box2">
+        <div class="col-8" id="box2">
           Column
         </div>
-        <div class="col" id="box3">
+        <div class="col-2" id="box3">
           Column
         </div>
       </div>
