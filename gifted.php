@@ -10,6 +10,7 @@
     #box2{
       width: 100px;
       height: 100px;
+      padding: 10px;
     }
     .box{
       background-color: green;
