@@ -5,6 +5,7 @@
     #box1{
       width: 100px;
       height: 100px;
+      margin: 5px;
     }
     #box2{
       width: 100px;
