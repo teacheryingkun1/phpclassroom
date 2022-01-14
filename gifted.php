@@ -2,15 +2,14 @@
 <head>
   <title> G I F T E D </title>
   <style>
-    #s2{
-      color:purple;
-    }
-    body{
-      background-color: yellow;
+    #box1{
+      width: 60px;
+      height: 60px;
+      background-color: brown;
     }
   </style>
 </head>
 <body>
-  <h1 id="s2"> ยินดีต้อนรับสู่ห้อง GIFTED </h1>
+  <div id="box1"></div>
 </body>
 </html>
