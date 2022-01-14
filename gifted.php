@@ -3,13 +3,21 @@
   <title> G I F T E D </title>
   <style>
     #box1{
-      width: 150px;
-      height: 300px;
-      background-color: brown;
+      width: 50px;
+      height: 50px;
+    }
+    #box2{
+      width: 200px;
+      height: 50px;
+    }
+    .box{
+      background-color: green;
     }
   </style>
 </head>
 <body>
-  <div id="box1">อยากกินก๋วยเตี๋ยวต้มยำอยุทธยา</div>
+  <div id="box1" class="box"></div>
+  <br><br>
+  <div id="box2" class="box"></div>
 </body>
 </html>
