@@ -67,7 +67,7 @@
     </div>
     <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
       <h1 class="display-7 fw-normal">รายงานข้อมูล Covid-19 รายวัน</h1>
-      <p class="fs-5 text-muted">ข้อมูล ณ วันที่ xx เดือน xxxx ปี 2565</p>
+      <p class="fs-5 text-muted">ข้อมูล ณ <?php echo $data[0]->txn_date; ?></p>
     </div>
   </header>
   <!-- แก้ไขส่วนที่ 2 -->
