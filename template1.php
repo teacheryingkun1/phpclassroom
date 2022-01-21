@@ -14,6 +14,9 @@
         height: 160px;
         background-color: orange;
       }
+      .container{
+        width: 100%;
+      }
     </style>
     
   </head>
