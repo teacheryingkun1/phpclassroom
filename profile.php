@@ -40,7 +40,7 @@
           <h1>Sidebar</h1>
         </div>
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
-          <img width="100%" src="thaikufah.jpg">
+          <img width="100%" src="thaikufah.jpg" class="rounded">
         </div>
       </div>
        <div class="row">
