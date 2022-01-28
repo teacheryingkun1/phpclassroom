@@ -20,6 +20,7 @@
       }
       #content{
         background-color: gray;
+        padding: 5px;
       }
       #footer{
         height: 200px;
