@@ -19,7 +19,6 @@
         background-color: green;
       }
       #content{
-        height: 100px;
         background-color: gray;
       }
       #footer{
