@@ -40,7 +40,7 @@
           <h1>Sidebar</h1>
         </div>
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
-          <img src="https://tna.mcot.net/wp-content/uploads/2022/01/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-78-1-768x402.jpg">
+          <img src="thaikufah.jpg">
         </div>
       </div>
        <div class="row">
