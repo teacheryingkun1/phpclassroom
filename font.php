@@ -6,12 +6,17 @@
         font-family: myFont;
         src: url(shining.woff);
       }
-      body{
+      #font1{
         font-family: myFont;
       }
     </style>
   </head>
   <body>
-    <h1>เว็บไซต์ของฉัน</h1>
+    <div id="font1">
+      <h1>ฟอนต์แบบที่ 1</h1>
+    </div>
+    <div id="font2">
+      <h1>ฟอนต์แบบที่ 2</h1>
+    </div>
   </body>
 </html>
