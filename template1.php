@@ -56,7 +56,7 @@
           <h1>Header</h1>
         </div>
       </div>
-      <div class="row">
+      <div class="row" style="padding: 0 !important;">
         <div class="col-3" id="sidebar"> <!-- ไซด์บาร์ -->
           <ul>
             <li><a href="#home">Home</a></li>
