@@ -26,6 +26,26 @@
         height: 200px;
         background-color: pink;
       }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 200px;
+        background-color: #f1f1f1;
+      }
+
+      li a {
+        display: block;
+        color: #000;
+        padding: 8px 16px;
+        text-decoration: none;
+      }
+
+      /* Change the link color on hover */
+      li a:hover {
+        background-color: #555;
+        color: white;
+      }
     </style>
     
   </head>
@@ -38,7 +58,12 @@
       </div>
       <div class="row">
         <div class="col-3" id="sidebar"> <!-- ไซด์บาร์ -->
-          <h1>Sidebar</h1>
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#about">About</a></li>
+          </ul>
         </div>
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
           <h1>Content</h1>
