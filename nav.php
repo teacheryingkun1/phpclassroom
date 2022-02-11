@@ -3,10 +3,10 @@
     <title>Navigation Bar</title>
   </head>
   <body>
-    <ul>
+    <ol>
       <li>Coffee</li> 
       <li>Tea</li> 
       <li>Milk</li> 
-    </ul>
+    </ol>
   </body>
 </html>
