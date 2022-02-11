@@ -10,6 +10,7 @@
         padding: 8px 16px;
         text-decoration: none;
         background-color: orange;
+        border: 1px;
       }
       li a:hover {
         background-color: #555;
